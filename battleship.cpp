@@ -1,3 +1,6 @@
+// Battleship Main File
+// By Octavian T. Johnson
+
 
 // Include standard headers
 #include <iostream>
